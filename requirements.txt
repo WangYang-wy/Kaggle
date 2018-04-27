@@ -6,3 +6,4 @@ scipy
 Seaborn
 sklearn
 jupyter
+matplotlib
