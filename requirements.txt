@@ -1,9 +1,0 @@
-nobug
-kaggle
-numpy
-pandas
-scipy
-Seaborn
-sklearn
-jupyter
-matplotlib
